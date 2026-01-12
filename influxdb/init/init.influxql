@@ -1,0 +1,3 @@
+-- 7일 보존 정책 생성 및 기본 설정 
+-- (데이터베이스는 INFLUXDB_DB 환경변수로 자동 생성됨) 
+CREATE RETENTION POLICY "rp_7d" ON "k6" DURATION 7d REPLICATION 1 DEFAULT
