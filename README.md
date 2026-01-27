@@ -1,3 +1,10 @@
+본 프로젝트는 아래 오픈소스 소프트웨어를 기반으로 구성되어 있습니다.
+
+- k6 (https://k6.io/) – Grafana Labs에서 제공하는 부하 테스트 도구
+- Grafana (https://grafana.com/) – Grafana Labs에서 제공하는 데이터 시각화 플랫폼
+- InfluxDB (https://www.influxdata.com/) – 시계열 데이터베이스
+
+
 # k6 Performance Testing Stack
 
 k6 부하 테스트를 위한 Docker 기반 모니터링 스택입니다.
