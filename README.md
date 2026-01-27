@@ -546,9 +546,9 @@ MIT
 ## 제3자 오픈소스 소프트웨어 고지
 
 본 프로젝트는 아래 오픈소스 소프트웨어를 기반으로 구성되어 있습니다.
-- k6 (https://k6.io/) – Grafana Labs에서 제공하는 부하 테스트 도구
-- Grafana (https://grafana.com/) – Grafana Labs에서 제공하는 데이터 시각화 플랫폼
-- InfluxDB (https://www.influxdata.com/) – 시계열 데이터베이스
+- [k6](https://k6.io/) – Grafana Labs에서 제공하는 부하 테스트 도구
+- [Grafana](https://grafana.com/) – Grafana Labs에서 제공하는 데이터 시각화 플랫폼
+- [InfluxDB](https://www.influxdata.com/) – 시계열 데이터베이스
 
 각 소프트웨어의 상표 및 저작권은 해당 소유자에게 귀속됩니다.  
 본 저장소는 제3자 소프트웨어의 바이너리, 실행 파일 또는 소스 코드를 포함하거나 재배포하지 않습니다.
